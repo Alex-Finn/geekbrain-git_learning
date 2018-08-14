@@ -1,2 +1,4 @@
 new branch class 1
 new string 2
+new 3
+new 4
